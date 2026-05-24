@@ -2259,33 +2259,33 @@ export default {
       // Products
       products: [
         {
-          id: 1,
-          name: "Ray-Ban RX5228",
-          price: 2800,
-          category: "Unisex",
-          image: "/src/assets/Proyecto1/ray.png"
-        },
-        {
-          id: 2,
-          name: "Oakley OX8137",
-          price: 3450,
-          category: "Hombre",
-          image: "/src/assets/Proyecto1/oak.png"
-        },
-        {
-          id: 3,
-          name: "Vogue VO5230",
-          price: 2150,
-          category: "Mujer",
-          image: "/src/assets/Proyecto1/vogue.png"
-        },
-        {
-          id: 4,
-          name: "Guess GU2644",
-          price: 2150,
-          category: "Marca",
-          image: "/src/assets/Proyecto1/guess.png"
-        }
+  id: 1,
+  name: "Ray-Ban RX5228",
+  price: 2800,
+  category: "Unisex",
+  image: "public/images/ray.png"
+},
+{
+  id: 2,
+  name: "Oakley OX8137",
+  price: 3450,
+  category: "Hombre",
+  image: "public/images/oak.png"
+},
+{
+  id: 3,
+  name: "Vogue VO5230",
+  price: 2150,
+  category: "Mujer",
+  image: "public/images/vogue.png"
+},
+{
+  id: 4,
+  name: "Guess GU2644",
+  price: 2150,
+  category: "Marca",
+  image: "public/images/guess.png"
+}
       ]
     }
   },
