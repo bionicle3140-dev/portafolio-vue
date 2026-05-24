@@ -2263,28 +2263,28 @@ export default {
   name: "Ray-Ban RX5228",
   price: 2800,
   category: "Unisex",
-  image: "/images/ray.png"
+  image: "/ray.png"
 },
 {
   id: 2,
   name: "Oakley OX8137",
   price: 3450,
   category: "Hombre",
-  image: "/images/oak.png"
+  image: "/oak.png"
 },
 {
   id: 3,
   name: "Vogue VO5230",
   price: 2150,
   category: "Mujer",
-  image: "/images/vogue.png"
+  image: "/vogue.png"
 },
 {
   id: 4,
   name: "Guess GU2644",
   price: 2150,
   category: "Marca",
-  image: "/images/guess.png"
+  image: "/guess.png"
 }
       ]
     }
